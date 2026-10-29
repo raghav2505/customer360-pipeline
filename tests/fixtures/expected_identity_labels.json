@@ -1,0 +1,21 @@
+{
+  "description": "Expected-answer labels for selected synthetic sample identities; separate from source CSV inputs.",
+  "same_identity_pairs": [
+    {
+      "a": "C000019",
+      "b": "C000020"
+    }
+  ],
+  "must_not_merge_pairs": [
+    {
+      "a": "C000029",
+      "b": "C000030"
+    }
+  ],
+  "expected_uncertain_phone_conflict_pairs": [
+    {
+      "a": "C000029",
+      "b": "C000030"
+    }
+  ]
+}
